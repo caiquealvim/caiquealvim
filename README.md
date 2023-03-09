@@ -23,10 +23,3 @@
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## Contato
-- Email: caique.apd.engenharia@gmail.com
-
