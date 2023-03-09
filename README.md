@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/caique-alvim-72053218a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caique-alvim-72053218a/" height="30" width="60" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJjYjk1YmVjOWU2YWIyYTQ2MzEyZTNlNGM1YTIxOTRjMDA5ODBiZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJjYjk1YmVjOWU2YWIyYTQ2MzEyZTNlNGM1YTIxOTRjMDA5ODBiZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![](https://github-readme-stats.vercel.app/api?username=caiquealvim&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquealvim&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
